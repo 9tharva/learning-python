@@ -1,0 +1,6 @@
+a=(1,2,4,9,4,False ,"rohan","shivam")
+print(a)
+no=a.count(45)
+print(no)
+i=a.index(4)
+print(i)
